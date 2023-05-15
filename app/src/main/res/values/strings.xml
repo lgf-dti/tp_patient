@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">projet_service</string>
+    <string name="patient_creer">Créer un nouveau patient</string>
+    <string name="patient_afficher">Afficher un patient</string>
+    <string name="patient_statistiques">Satistiques du service</string>
+    <string name="patient_nom">Nom : </string>
+    <string name="patient_prenom">Prénom : </string>
+    <string name="patient_taille">Taille (en cm) : </string>
+    <string name="patient_poids">Poids (en kg) : </string>
+    <string name="patient_imc">IMC : </string>
+    <string name="patient_genre">Genre : </string>
+    <string name="patient_chambre">Numéro de chambre : </string>
+    <string name="patient_imc_indication">Indication IMC : </string>
+    <string name="patient_masculin">Masculin</string>
+    <string name="patient_feminin">Féminin</string>
+    <string name="service_nombreHommes">Nombre d\'homme(s) : </string>
+    <string name="service_nombreFemmes">Nombre de femme(s) : </string>
+    <string name="service_ImcMoyenHommes">IMC moyen homme(s) : </string>
+    <string name="service_ImcMoyenFemmes">IMC moyen femme(s) : </string>
+    <string name="service_ImcMoyenTous">IMC moyen : </string>
+    <string name="patient_buttonCreerPatient">Valider</string>
+    <string name="patient_buttonAfficherPatient">Afficher</string>
+    <string name="patient_buttonAfficherStats">Afficher les statistiques</string>
+</resources>
